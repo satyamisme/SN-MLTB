@@ -1,4 +1,4 @@
-# #SN-MLTB # Fully Based On #WZML . 
+# #SN-MLTB # Fully Based On #JMDKH . 
 
 Base Repo : https://github.com/weebzone/WZML
 
@@ -8,7 +8,7 @@ Base Repo : https://github.com/weebzone/WZML
 
 # Fork or import heroku branch only . If you already fork both branch then delete master branch . I wish it will help to protect ban from server .
 
-# Deploy from workflow
+# Deploy with github workflow
 
 # Instruction #
 
