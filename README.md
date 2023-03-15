@@ -1,5 +1,5 @@
-# SN-JMDKH 
-# Fully Based On JMDKH . 
+# SN- WZML
+# Fully Based On WZML 
 
 Base Repo : https://github.com/weebzone/WZML
 
