@@ -21,7 +21,7 @@ except:
 
 
 UPSTREAM_REPO = "https://github.com/SN-ABDULLAH-AL-NOMAN/SN-MLTB"
-UPSTREAM_BRANCH = 'master'
+UPSTREAM_BRANCH = environ.get('UPSTREAM_BRANCH', '')
 
 if UPSTREAM_REPO is not None:
     if ospath.exists('.git'):
